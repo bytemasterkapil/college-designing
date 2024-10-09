@@ -1,0 +1,315 @@
+/*
+@media screen and (mix-width: 800px) {
+    .kapil {
+      display: none;
+    }
+  }
+  */
+  @media screen and (max-width: 600px) {
+    .kapil {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 280px) {
+    .bor{
+      border:0;
+    }
+  }
+  .bor
+  {
+    
+    border-style: ridge;
+  }
+
+.k
+{
+    margin-left: 15px;
+}
+
+.s-icon
+{
+    list-style:none;
+    padding-top: 30px;
+    display: inline block;
+    font-size: 24px;
+}
+.s-icon li {
+
+    display: inline ;
+    border-radius: 50%;
+    margin: 19px;
+    border: 34%;
+    background-color: solid black;
+
+}
+
+.fa {
+
+  padding: 4px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+
+}
+@media screen and (max-width: 1000px) {
+  .kapil {
+    display: none;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .kapil1 {
+    display: none;
+  }
+}
+.noti:hover
+{
+cursor: pointer;
+	transition: all 1s ease;
+    transform: scale(1.59);
+
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube
+{
+background:#BB0000;
+color:white;
+
+}
+.fa-instagram
+{
+background:#125688;
+color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn:hover
+{
+    background-color: #e26dd5;
+}
+.ser
+{
+    margin-top: 32px;
+    border-color: #bfcbcc;
+    color: black;
+}
+.ser :hover
+{
+    background-color: #0212f2;
+    color: white;
+}
+.navt
+{
+    color: white;
+}
+.navtt :hover
+{
+    background-color: black;
+    color: white;
+    border-radius: 14px;
+
+}
+
+.navtt a{
+    display: inline-block;
+    position: relative;
+    color: 
+  white;
+    
+}
+.navtt a:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: 
+  #0087ca;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  .navtt a:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+.drop :hover
+{
+
+    
+    background-color: #e26dd5;
+    color: white;
+    border-radius: 14px;
+}
+.hh
+{
+text-align: center;
+text-shadow:3px;
+font-family: imprint mt shadow;
+color:white;
+padding-top: 39px;
+font-size: 50px;
+
+}
+.hh1
+{
+    text-align: center;
+    font-family: pristina;
+    color:white;
+    font-size: 53px;
+}
+.hh3
+{
+    text-align: center;
+    color: white;
+;
+}
+.img
+{
+    text-align: center;
+}
+
+.he{
+    height: 800px;
+
+}
+.he1
+{
+    height: 500px;
+}
+.he2
+{
+    height: 300px;
+}
+.about
+{
+    text-shadow:3px;
+font-family: imprint mt shadow;
+color: white;
+font-size: 39px;
+
+
+}
+
+.p1
+{
+    font-family: imprint mt shadow;
+    color: white;
+    font-size: 19px;
+}
+.bg1
+{
+    background-color: #e26dd5;
+}
+.n1
+{
+    font-size: 43px;
+    color: white;
+}
+.n2
+{
+    margin-left: 28px;
+}
+
+.co{
+    text-align: center;
+    color: #e26dd5;
+}
+
+.co1{
+    text-align: center;
+    color: #e26dd5;
+    font-size: 26px;
+}
+.bo
+{
+    
+    height: 40px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+/*
+.cardhover :hover
+{
+background-color: #e26dd5;
+
+
+}
+
+
+
+
+@media screen and (min-width: 601px) {
+    .p1 {
+      font-size: 15px;
+    }
+  }
+  
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px 
+  @media screen and (max-width: 600px) {
+    .p1{
+      font-size: 19px;
+    }
+  }
+  .p1
+  {
+    //style="font-size: 19px; color: white; text-align: justify;"
+    font-size: 18px;
+    color:white;
+    text-align:justify;
+  }
+*/
+
+
+
+
+/*this is for header*/
+   .header-top ul li
+  {
+ list-style-type:none;
+ display:inline;
+ display: inline-block;
+ margin-left: 45px;
+ //border: 1px solid ;
+ padding-left: 29px;
+ 
+ //margin-left:  12px;
+ 
+  }

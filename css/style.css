@@ -1,0 +1,30 @@
+.cardhover
+{
+background: linear-gradient(to top,#e26dd5 50%,#fff 50%);
+background-size: 100% 200%;
+background-position: top;
+transition: all .5s ease-out;
+
+}
+.cardhover:hover{
+  background-position: bottom;
+  color: white;
+}
+.pad
+{
+  padding-left: 52px;
+}
+
+.cardhover2
+{
+background: linear-gradient(to bottom,#e26dd5 50%,#fff 50%);
+background-size: 100% 200%;
+background-position: bottom;
+transition: all .5s ease-out;
+
+}
+.cardhover2:hover{  
+  background-position: top;
+  color: white;
+}
+
