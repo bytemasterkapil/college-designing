@@ -1,3 +1,6 @@
+### Authorship of this project is mit licence
+ this project only a college based project.this only resume purpose based project 
+
 ### Education website for College & University
 
 ![Education website template](https://github.com/bytemasterkapil/college-designing/blob/main/Screenshot%202024-10-09%20160319.jpg)
