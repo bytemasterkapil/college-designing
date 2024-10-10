@@ -26,5 +26,6 @@ This is a HTML5 Responsive site template suitable for Courses, colleges, Worksho
 .
 .
 .
-.
-[![Atul - Buy Me A Coffee](https://github.com/bytemasterkapil/college-designing/blob/main/buy-me-a-coffee.png](https://buymeacoffee.com/bytemasterkapil)
+
+
+[![Kapil-Buy me a Coffee](https://github.com/bytemasterkapil/college-designing/blob/main/buy-me-a-coffee.png)](https://buymeacoffee.com/bytemasterkapil)
